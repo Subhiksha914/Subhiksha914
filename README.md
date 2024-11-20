@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python
   📫 you can reach me through kmsubhiksha914@gmail.com
-- 
+
   
 
 <!---
