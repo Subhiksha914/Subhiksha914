@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subhiksha914
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python
-  📫 you can reach me through kmsubhiksha914@gmail.com
+  📫 How to reach me  kmsubhiksha914@gmail.com
 
   
 
